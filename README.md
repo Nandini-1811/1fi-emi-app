@@ -2,9 +2,9 @@
 
 A full-stack product page for buying smartphones on EMI plans backed by mutual funds — built for the 1Fi SDE1 Full Stack Developer assignment.
 
-**Live Demo:** [add your Vercel link here]
-**Backend API:** [add your Render link here]
-**Demo Video:** [add your video link here]
+**Live Demo:** https://1fi-emi-app-smoky.vercel.app
+**Backend API:** https://onefi-emi-app-backend.onrender.com
+**Demo Video:** [add after recording]
 
 ## Tech Stack
 

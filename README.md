@@ -4,7 +4,7 @@ A full-stack product page for buying smartphones on EMI plans backed by mutual f
 
 **Live Demo:** https://1fi-emi-app-smoky.vercel.app
 **Backend API:** https://onefi-emi-app-backend.onrender.com
-**Demo Video:** [add after recording]
+**Demo Video:** https://drive.google.com/file/d/106UjE0fcxluW4WFtUckteL8yn3gc6orB/view?usp=sharing`
 
 ## Tech Stack
 

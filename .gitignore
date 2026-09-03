@@ -9,6 +9,7 @@ backend/.env
 
 # build output
 frontend/dist/
+frontend/.env
 
 # misc
 .DS_Store
